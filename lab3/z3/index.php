@@ -75,7 +75,7 @@ if(isset($_GET['func']) && !empty($_GET['func']))
 		echo "</table><hr/>";
 	}
 ?>
-<form method="post" action="index.php?func=dodaj" enctype="multipart/form-data">
+	<form method="post" action="index.php?func=dodaj" enctype="multipart/form-data">
 		<table>
 			<tr>
 				<td>Fajl za upload:</td>
