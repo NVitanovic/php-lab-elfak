@@ -52,7 +52,7 @@ if(isset($_GET['func']) && !empty($_GET['func']))
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Lab 3 - zadatak 1</title>
+	<title>Lab 3 - zadatak 2</title>
 </head>
 <body>
 	<?php
